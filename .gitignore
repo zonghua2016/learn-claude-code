@@ -36,6 +36,7 @@ chroma_db/
 .venv/
 
 .worktrees
+.tasks
 
 # 系统文件
 .DS_Store
@@ -43,3 +44,6 @@ Thumbs.db
 
 # 日志
 *.log
+api_server.py
+auth.py
+frontend/
