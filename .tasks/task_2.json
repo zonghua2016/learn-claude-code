@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "subject": "Create hello.py that prints Hello World",
+  "description": "Create a file called hello.py that prints \"Hello, World!\"",
+  "status": "pending",
+  "owner": "",
+  "worktree": "",
+  "blockedBy": [],
+  "created_at": 1774425754.971444,
+  "updated_at": 1774425754.971444
+}
